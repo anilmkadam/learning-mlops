@@ -11,3 +11,4 @@
 ### Misc
 1. Use Chat GPT effectively - https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
 2. Roadmaps - https://roadmap.sh/
+3. Architecture Notes - https://architecturenotes.co/
